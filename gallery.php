@@ -1,3 +1,7 @@
+<?php
+ include('php/includes/session_top.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 

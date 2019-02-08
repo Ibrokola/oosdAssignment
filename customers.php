@@ -1,10 +1,6 @@
 <?php
     include_once("php/includes/session_top.php");
 
-    // include_once("page6.php");
-
-    // include_once("page4.php");
-
     // GetCustomers(); // getting an array of customer objects...
 ?>
 

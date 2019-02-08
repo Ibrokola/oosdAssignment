@@ -1,4 +1,7 @@
-<?php 
+<?php
+
+include('php/includes/session_top.php');
+
 /***************************************
 * Author: Ibraheem Kolawole
 * Date: February 11, 2019
