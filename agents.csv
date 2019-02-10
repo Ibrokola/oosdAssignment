@@ -1,0 +1,11 @@
+Agent Object
+(
+    [agtFirstName:protected] => Ibro
+    [agtMiddleInitial:protected] => 
+    [agtLastName:protected] => Kola
+    [agtBusPhone:protected] => 4036168427
+    [agtEmail:protected] => ibrokola@gmail.com
+    [agtPosition:protected] => Junior Agent
+    [agencyId:protected] => 2
+)
+

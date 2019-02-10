@@ -50,33 +50,29 @@
                 <div class="register-main">
 
                     <div class="register-box">
-
-                    <?php
-    
-                    ?>
-                            <form name="registerForm">
-                                <div class="form-row">
-                                    <div class="form-group col-md-6">
-                                        <label for="clientName"> <strong>Full Name</strong> </label>
-                                        <input type="text" class="form-control focus validate" name="fullName" id="clientName" maxlength=20 placeholder="Full Name">
-                                        <div class="focus-feedback">
-                                            Enter maximum of 20 characters!
-                                        </div>
-                                        <div class="validation">
-                                            Name required
-                                        </div>
+                        <form name="registerForm" action='bouncer.php'>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="clientName"> <strong>Full Name</strong> </label>
+                                    <input type="text" class="form-control focus validate" name="fullName" id="clientName" maxlength=20 placeholder="Full Name">
+                                    <div class="focus-feedback">
+                                        Enter maximum of 20 characters!
                                     </div>
-                                    <div class="form-group col-md-6">
-                                        <label for="clientEmail"> <strong>Email</strong> </label>
-                                        <input type="email" class="form-control focus validate" id="clientEmail" placeholder="Email" name="email">
-                                        <div class="focus-feedback">
-                                            Enter a valid email with @ and .com!
-                                        </div>
-                                        <div class="validation">
-                                            Email required
-                                        </div>
+                                    <div class="validation">
+                                        Name required
                                     </div>
                                 </div>
+                                <div class="form-group col-md-6">
+                                    <label for="clientEmail"> <strong>Email</strong> </label>
+                                    <input type="email" class="form-control focus validate" id="clientEmail" placeholder="Email" name="email">
+                                    <div class="focus-feedback">
+                                        Enter a valid email with @ and .com!
+                                    </div>
+                                    <div class="validation">
+                                        Email required
+                                    </div>
+                                </div>
+                            </div>
                                 <div class="form-group">
                                     <label for="address1"> <strong>Address</strong></label>
                                     <input type="text" class="form-control focus validate" id="address1" placeholder="1234 Main St" maxlength=50 name="address1">
