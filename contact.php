@@ -97,61 +97,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <?php
-                            // include('php/includes/oop.php');
-
-                            // Some quick OOP introspection....
-
-                            // $agent = new Agent($id=1, $fname='Babs', $lname='Kola', $bphone='4036168427', $email='ibrokolawole@gmail.com', $position='Junior Agent', $aId=2, $mini='');
-
-                            // $agent = new Agent;
-
-                            // These don't work, trash it....
-                            // $agent.setAgtFirstName('Babs');
-                            // $agent.setAgtLastName('Kola');
-                            // $agent.setAgtBusPhone('4036168427');
-                            // $agent.setAgtEmail('babs@gmail.com');
-                            // $agent.setAgtPosition('Senior Agent');
-                            // $agent.setAgencyId(2);
-
-                            // // $agent = new Agent;
-
-                            // echo $agent;
-
-                            // $fresh_data = array();
-
-                            // $agent_data =  array(
-                            //     'AgtFirstName' => 'Babs',
-                            //     'AgtMiddleInitial' => '',
-                            //     'AgtLastName' => 'Kola',
-                            //     'AgtBusPhone' => '4036168427',
-                            //     'AgtEmail' => 'babs@gmail.com',
-                            //     'AgtPosition' => 'Senior Agent',
-                            //     'AgencyId' => 3
-                            // );
-
-                            // $fresh_agent = new Agent(
-                            //     $fname = $agent_data['AgtFirstName'],
-                            //     $mini = $agent_data['AgtMiddleInitial'],
-                            //     $lname = $agent_data['AgtLastName'],
-                            //     $bphone = $agent_data['AgtBusPhone'],
-                            //     $email = $agent_data['AgtEmail'],
-                            //     $position = $agent_data['AgtPosition'],
-                            //     $aId = $agent_data['AgencyId']
-                            // );
-
-                            // $fresh_data[] = $fresh_agent;
-
-                            // echo $fresh_agent;
-
-                            // echo '<br>';
-
-                            // echo implode(" ", $fresh_data);
-
-                            // echo $fresh_agent->getAgtFirstName();
-
-                        ?>
                     </div>
                 </div>
             </div>

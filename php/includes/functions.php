@@ -2,7 +2,7 @@
 /***************************************
 * Author: Ibraheem Kolawole
 * Date: February 11, 2019
-* Purpose: Agent insert function using prepared statements, getUsers(), getCustomers()
+* Purpose: Agent insert function using prepared statements, getUsers(), getCustomers(), createAgentObj()
 * Requires: connection to mysql db.php, 
             mysqli_prepare(), 
             mysqli_stmt_bind_param(), 
