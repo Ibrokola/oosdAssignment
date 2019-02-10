@@ -6,8 +6,10 @@ Web Application Development Assignment
 
 ## Due Date
     * 28/01/2019
+    * 11/02/2019
 
 ## Modules
     * HTML5
     * CSS4
     * JavaScript (ES5 & ES6 concepts)
+    * PHP (Procedural & OOP Concepts)
